@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "gmazar-dbsrv-dev"
+            "value": "gmazar-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "gmazar-db-dev"
+            "value": "gmazar-db-uat"
         },
         "appServicePlanName": {
-            "value": "gmazar-asp-dev"
+            "value": "gmazar-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "gmazar-be-dev"
+            "value": "gmazar-be-uat"
         },
         "appServiceAppName": {
-            "value": "gmazar-fe-dev"
+            "value": "gmazar-fe-uat"
         },
         "location": {
             "value": "North Europe"
